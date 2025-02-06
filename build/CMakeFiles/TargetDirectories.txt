@@ -1,3 +1,0 @@
-E:/Code stuff/Self-delete/build/CMakeFiles/SelfDelete.dir
-E:/Code stuff/Self-delete/build/CMakeFiles/ALL_BUILD.dir
-E:/Code stuff/Self-delete/build/CMakeFiles/ZERO_CHECK.dir
