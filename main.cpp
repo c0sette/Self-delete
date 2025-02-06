@@ -10,7 +10,7 @@ void selfDel()
     wsprintfW(szCmd, L"cmd /c del /f /q \"%s\"", szFilePath);
     ShellExecuteW(NULL, L"open", L"cmd", szCmd, NULL, SW_HIDE);
 
-    exit(0);
+    exit(1);
 }
 
 int main()
